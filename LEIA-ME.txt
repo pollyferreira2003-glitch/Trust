@@ -1,0 +1,1 @@
+Abra somente o arquivo index.html. Todo o CSS, catálogo e JavaScript estão dentro dele. Não é necessário usar outras pastas.
