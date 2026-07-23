@@ -1,0 +1,22 @@
+TRUST MATERIAIS DE CONSTRUÇÃO
+
+Este projeto funciona em um único arquivo.
+
+COMO ABRIR:
+1. Extraia o ZIP.
+2. Abra a pasta trust_site_final.
+3. Clique duas vezes no arquivo index.html.
+
+Não é necessário instalar nada.
+O CSS e o JavaScript estão dentro do próprio index.html.
+
+Contato:
+Telefone: (11) 95753-2161
+E-mail: trustmateriasdeconstrucao@gmail.com
+Atendimento: segunda a sexta, das 08h às 18h.
+
+
+ATUALIZAÇÕES:
+- O formulário envia nome, telefone, produtos/categorias selecionados e mensagem pelo WhatsApp.
+- É possível selecionar vários produtos ou categorias.
+- A logo foi substituída pela imagem enviada.
